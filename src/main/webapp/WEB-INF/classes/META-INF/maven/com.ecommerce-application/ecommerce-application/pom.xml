@@ -2,12 +2,12 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.lampetty</groupId>
-    <artifactId>war-jar-sample</artifactId>
+    <groupId>com.ecommerce-application</groupId>
+    <artifactId>ecommerce-application</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>war-jar-sample</name>
-    <url>http://blogger.lampetty.net/</url>
+    <name>ecommerce-application</name>
+    <url>http://blogger.ecommerce-application.com/</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -15,7 +15,7 @@
     </properties>
 
     <build>
-        <finalName>war-jar-sample</finalName>
+        <finalName>ecommerce-application</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
         <resources>
             <resource>
