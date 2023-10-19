@@ -1,4 +1,4 @@
-package com.ecommerce-application.ecommerce-application;
+package com.ecommerce-website.ecommerce-application;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
