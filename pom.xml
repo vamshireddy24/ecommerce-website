@@ -23,8 +23,8 @@
                 <directory>src/main/webapp</directory>
             </resource>
         </resources>
-    
-    /<testSourceDirectory>src/test/java</testSourceDirectory>
+    <!...
+    <testSourceDirectory>src/test/java</testSourceDirectory>
         <testOutputDirectory>target/test-classes</testOutputDirectory>
         <testResources>
             <testResource>
@@ -33,7 +33,7 @@
             </testResource>
         </testResources>
         */<defaultGoal>validate</defaultGoal>
-
+         ...>
         <plugins>
 
             <plugin>
