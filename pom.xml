@@ -17,10 +17,6 @@
     <!-- Define project dependencies -->
     <dependencies>
         <!-- Spring Boot dependencies -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
         <!-- Add more dependencies for your specific eCommerce requirements -->
     </dependencies>
     
@@ -34,10 +30,6 @@
             </resource>
         </resources>
         <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
         </plugins>
     </build>
 </project>
