@@ -15,12 +15,6 @@
         <spring.version>3.2.4.RELEASE</spring.version>
     </properties>
          
-    <dependencies>
-        <!-- Spring Boot dependencies -->
-        <!-- Add more dependencies for your specific eCommerce requirements -->
-    </dependencies>
-    
-    <!-- Build and plugin configurations -->
     <build>
           <finalName>ecommerce-application</finalName>
         <sourceDirectory>src/main/webapp</sourceDirectory>
