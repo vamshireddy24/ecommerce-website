@@ -6,6 +6,8 @@
     <groupId>com.ecommerce-application</groupId>
     <artifactId>ecommerce-application</artifactId>
     <version>1.0.0</version>
+    <packaging>war</packaging>
+    <name>ecommerce-application</name> 
     
     <!-- Define project properties -->
     <properties>
