@@ -29,8 +29,6 @@
                 <directory>src/main/webapp</directory>
             </resource>
         </resources>
-        <plugins>
-        </plugins>
     
     <testSourceDirectory>src/test/java</testSourceDirectory>
         <testOutputDirectory>target/test-classes</testOutputDirectory>
