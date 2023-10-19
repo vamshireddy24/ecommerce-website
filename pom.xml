@@ -24,7 +24,7 @@
             </resource>
         </resources>
     
-    <testSourceDirectory>src/test/java</testSourceDirectory>
+    /<testSourceDirectory>src/test/java</testSourceDirectory>
         <testOutputDirectory>target/test-classes</testOutputDirectory>
         <testResources>
             <testResource>
@@ -32,7 +32,7 @@
                 <filtering>true</filtering>
             </testResource>
         </testResources>
-        <defaultGoal>validate</defaultGoal>
+        */<defaultGoal>validate</defaultGoal>
 
         <plugins>
 
