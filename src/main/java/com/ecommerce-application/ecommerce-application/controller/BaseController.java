@@ -1,4 +1,4 @@
-package com.ecommerce-application.ecommerce-application.controller;
+package com.ecommerce-website.ecommerce-application.controller;
 
 public class BaseController {
 
