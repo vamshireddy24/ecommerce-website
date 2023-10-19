@@ -14,13 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.version>3.2.4.RELEASE</spring.version>
     </properties>
-    <properties>
-        <java.version>11</java.version>
-        <spring.boot.version>2.5.2</spring.boot.version>
-        <!-- Add other properties as needed -->
-    </properties>
-    
-    <!-- Define project dependencies -->
+         
     <dependencies>
         <!-- Spring Boot dependencies -->
         <!-- Add more dependencies for your specific eCommerce requirements -->
